@@ -98,8 +98,16 @@
                   }
                 },
                 {
+                  "section": "Recycle",
+                  "style": {
+                    "width": "10vh"
+                  }
+                },
+                {
                   "section": "Mana",
-                  "style": false
+                  "style": {
+                    "width": "60vh"
+                  }
                 },
                 {
                   "section": "Field",
@@ -212,6 +220,22 @@
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": "false",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Recycle": {
+            "title": "Recycle",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
