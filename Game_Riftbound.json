@@ -23,7 +23,10 @@
       {
         "title": "1v1",
         "gameplay": "1v1",
-        "customCategories": []
+        "customCategories": [
+          "Champion",
+          "Battlefield"
+        ]
       }
     ]
   },
@@ -45,8 +48,7 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        "0",
-        "8"
+        "0"
       ],
       "hideFacedDownCards": false,
       "sections": {
@@ -90,6 +92,12 @@
               "content": [
                 {
                   "section": "Rune",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Mana",
                   "style": false
                 },
                 {
@@ -103,7 +111,9 @@
         },
         "categoriesAlreadyOnBoard": [
           "Legend",
-          "Champion"
+          "Champion",
+          "Rune",
+          "Battlefield"
         ],
         "autoPlayFromHand": {
           "Champion": "Field",
@@ -112,7 +122,7 @@
           "Gear": "Field"
         },
         "autoPlayFromStack": {
-          "Rune": "Rune"
+          "Rune": "Mana"
         },
         "sectionsDict": {
           "Legend": {
@@ -163,8 +173,24 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Rune": {
-            "title": "Rune",
+          "Battlefield": {
+            "title": "Battlefield",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Mana": {
+            "title": "Mana",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -179,12 +205,12 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Battlefield": {
-            "title": "Battlefield",
-            "isHidden": "no",
-            "height": "BIG",
+          "Rune": {
+            "title": "Rune",
+            "isHidden": "yes",
+            "height": "SMALL",
             "alignment": "CENTER",
-            "opponentAlignment": false,
+            "opponentAlignment": "false",
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
