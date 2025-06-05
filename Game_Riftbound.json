@@ -61,49 +61,60 @@
           "Champion"
         ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "direction": "row",
+              "direction": "column",
               "style": false,
               "content": [
                 {
                   "section": "Legend",
                   "style": {
-                    "width": "15vh"
+                    "width": "8vh"
                   }
                 },
                 {
                   "section": "Champion",
                   "style": {
-                    "width": "15vh"
+                    "width": "8vh"
                   }
                 },
                 {
-                  "section": "Battlefield",
-                  "style": false
+                  "section": "Rune",
+                  "style": {
+                    "width": "8vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
             },
             {
-              "direction": "row",
+              "direction": "column",
               "style": false,
               "content": [
                 {
-                  "section": "Rune",
+                  "section": "Battlefield",
                   "style": {
-                    "width": "15vh"
+                    "width": "110vh"
                   }
                 },
                 {
-                  "section": "Mana",
-                  "style": false
-                },
-                {
-                  "section": "Field",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Mana",
+                      "style": {
+                        "width": "50vh"
+                      }
+                    },
+                    {
+                      "section": "Field",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
