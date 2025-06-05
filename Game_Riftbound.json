@@ -114,7 +114,88 @@
         "autoPlayFromStack": {
           "Rune": "Rune"
         },
-        "sectionsDict": {}
+        "sectionsDict": {
+          "Legend": {
+            "title": "Legend",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Champion": {
+            "title": "Champion",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Field": {
+            "title": "Field",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Rune": {
+            "title": "Rune",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Battlefield": {
+            "title": "Battlefield",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
       }
     }
   }
