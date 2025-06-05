@@ -1,0 +1,53 @@
+{
+  "OGN-265-1": {
+    "id": "OGN-265-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Herald of the Arcane",
+        "type": "Legend",
+        "cost": "2",
+        "image": "https://walkof1337.github.io/Riftbound/RIFTBOUND/OGN-265-1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Herald of the Arcane",
+    "type": "Legend",
+    "cost": "2"
+  },
+  "OGN-089-1": {
+    "id": "OGN-089-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mind Rune",
+        "type": "Rune",
+        "cost": 0,
+        "image": "https://walkof1337.github.io/Riftbound/RIFTBOUND/OGN-089-1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mind Rune",
+    "type": "Rune",
+    "cost": 0
+  },
+  "OGN-214-1": {
+    "id": "OGN-214-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Order Rune",
+        "type": "Rune",
+        "cost": 0,
+        "image": "https://walkof1337.github.io/Riftbound/RIFTBOUND/OGN-214-1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Order Rune",
+    "type": "Rune",
+    "cost": 0
+
+
+
+  }
+}
