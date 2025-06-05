@@ -58,7 +58,9 @@
           "Field",
           "Battlefield",
           "Legend",
-          "Champion"
+          "Champion",
+          "Mana",
+          "Recycle"
         ],
         "layout": {
           "direction": "column",
@@ -234,7 +236,7 @@
             "title": "Recycle",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
