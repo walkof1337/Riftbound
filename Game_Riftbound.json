@@ -25,7 +25,8 @@
         "gameplay": "1v1",
         "customCategories": [
           "Champion",
-          "Battlefield"
+          "Battlefield",
+          "Unit"
         ]
       }
     ]
