@@ -46,6 +46,102 @@
     "name": "Order Rune",
     "type": "Rune",
     "cost": 0
+  },
+  "OGN-275-1": {
+    "id": "OGN-275-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altar to Unity",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://walkof1337.github.io/Riftbound/RIFTBOUND/OGN-275-1.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Altar to Unity",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "OGN-293-1": {
+    "id": "OGN-293-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Grand Plaza",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://walkof1337.github.io/Riftbound/RIFTBOUND/OGN-293-1.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "The Grand Plaza",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "OGN-294-1": {
+    "id": "OGN-294-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trifarian War Camp",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://walkof1337.github.io/Riftbound/RIFTBOUND/OGN-294-1.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Trifarian War Camp",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "OGN-246-1": {
+    "id": "OGN-246-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viktor",
+        "type": "Champion",
+        "cost": "4",
+        "image": "https://walkof1337.github.io/Riftbound/RIFTBOUND/OGN-246-1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viktor",
+    "type": "Champion",
+    "cost": "4"
+  },
+  "OGN-096-1": {
+    "id": "OGN-096-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Watchful Sentry",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://walkof1337.github.io/Riftbound/RIFTBOUND/OGN-096-1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Watchful Sentry",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "OGN-118-1": {
+    "id": "OGN-118-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wraith of Echoes",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://walkof1337.github.io/Riftbound/RIFTBOUND/OGN-118-1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wraith of Echoes",
+    "type": "Unit",
+    "cost": "6"
 
 
 
