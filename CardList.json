@@ -460,7 +460,7 @@
       }
     },
     "name": "Yasuo, Remorseful",
-    "type": "Spell",
+    "type": "Champion",
     "cost": "6"
   },
   "OGN-081-1": {
@@ -1268,14 +1268,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Altar of Unity",
+        "name": "Altar to Unity",
         "type": "Battlefield",
         "cost": 0,
         "image": "https://walkof1337.github.io/Riftbound/RIFTBOUND/OGN-275-1.png",
         "isHorizontal": true
       }
     },
-    "name": "Altar of Unity",
+    "name": "Altar to Unity",
     "type": "Battlefield",
     "cost": 0
   },
