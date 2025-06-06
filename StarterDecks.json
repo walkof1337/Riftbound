@@ -1,513 +1,515 @@
-{
-  "title": "Volibear Trial Macao",
-  "id": "ab995fc8-e922-45db-86a7-b6fc9b901fd8",
-  "game": "Riftbound",
-  "format": "1v1",
-  "cardCount": 56,
-  "createdAt": "2025-06-06T09:40:33.616Z",
-  "lastModifiedAt": "2025-06-06T10:07:37.857Z",
-  "deckList": {
-    "categoriesOrder": [
-      "Legend",
-      "Unit",
-      "Spell",
-      "Champion",
-      "Rune",
-      "Battlefield"
-    ],
-    "Sideboard": [],
-    "Legend": [
-      {
-        "count": 1,
-        "id": "OGN-249-1"
-      }
-    ],
-    "Unit": [
-      {
-        "count": 3,
-        "id": "OGN-001-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-010-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-011-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-038-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-041-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-034-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-137-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-149-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-161-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-162-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-158-1"
-      }
-    ],
-    "Spell": [
-      {
-        "count": 3,
-        "id": "OGN-005-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-127-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-134-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-138-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-250-1"
-      }
-    ],
-    "Champion": [
-      {
-        "count": 1,
-        "id": "OGN-041-1"
-      }
-    ],
-    "Rune": [
-      {
-        "count": 6,
-        "id": "OGN-007-1"
-      },
-      {
-        "count": 6,
-        "id": "OGN-126-1"
-      }
-    ],
-    "Battlefield": [
-      {
-        "count": 1,
-        "id": "OGN-284-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-296-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-287-1"
-      }
-    ]
+[
+  {
+    "title": "Volibear Trial Macao",
+    "id": "ab995fc8-e922-45db-86a7-b6fc9b901fd8",
+    "game": "Riftbound",
+    "format": "1v1",
+    "cardCount": 56,
+    "createdAt": "2025-06-06T09:40:33.616Z",
+    "lastModifiedAt": "2025-06-06T10:07:37.857Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Legend",
+        "Unit",
+        "Spell",
+        "Champion",
+        "Rune",
+        "Battlefield"
+      ],
+      "Sideboard": [],
+      "Legend": [
+        {
+          "count": 1,
+          "id": "OGN-249-1"
+        }
+      ],
+      "Unit": [
+        {
+          "count": 3,
+          "id": "OGN-001-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-010-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-011-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-038-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-041-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-034-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-137-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-149-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-161-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-162-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-158-1"
+        }
+      ],
+      "Spell": [
+        {
+          "count": 3,
+          "id": "OGN-005-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-127-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-134-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-138-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-250-1"
+        }
+      ],
+      "Champion": [
+        {
+          "count": 1,
+          "id": "OGN-041-1"
+        }
+      ],
+      "Rune": [
+        {
+          "count": 6,
+          "id": "OGN-007-1"
+        },
+        {
+          "count": 6,
+          "id": "OGN-126-1"
+        }
+      ],
+      "Battlefield": [
+        {
+          "count": 1,
+          "id": "OGN-284-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-296-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-287-1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Yasuo Trial Macao",
+    "id": "ad71fd9b-6801-4a59-b507-a5e2281a52a1",
+    "game": "Riftbound",
+    "format": "1v1",
+    "cardCount": 56,
+    "createdAt": "2025-06-06T09:08:06.494Z",
+    "lastModifiedAt": "2025-06-06T10:07:27.826Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Legend",
+        "Unit",
+        "Spell",
+        "Gear",
+        "Champion",
+        "Rune",
+        "Battlefield"
+      ],
+      "Sideboard": [],
+      "Legend": [
+        {
+          "count": 1,
+          "id": "OGN-259-1"
+        }
+      ],
+      "Unit": [
+        {
+          "count": 2,
+          "id": "OGN-044-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-055-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-076-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-165-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-177-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-185-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-191-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-189-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-193-1"
+        }
+      ],
+      "Spell": [
+        {
+          "count": 2,
+          "id": "OGN-045-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-046-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-048-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-058-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-064-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-172-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-260-1"
+        }
+      ],
+      "Gear": [
+        {
+          "count": 2,
+          "id": "OGN-081-1"
+        }
+      ],
+      "Champion": [
+        {
+          "count": 1,
+          "id": "OGN-076-1"
+        }
+      ],
+      "Rune": [
+        {
+          "count": 6,
+          "id": "OGN-042-1"
+        },
+        {
+          "count": 6,
+          "id": "OGN-166-1"
+        }
+      ],
+      "Battlefield": [
+        {
+          "count": 1,
+          "id": "OGN-285-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-297-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-289-1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Viktor Trial Macao",
+    "id": "5d70df1e-ab17-4b3d-b98e-20e1b88e2d0a",
+    "game": "Riftbound",
+    "format": "1v1",
+    "cardCount": 56,
+    "createdAt": "2025-06-05T20:00:02.680Z",
+    "lastModifiedAt": "2025-06-05T20:06:04.107Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Unit",
+        "Legend",
+        "Rune",
+        "Battlefield",
+        "Champion",
+        "Spell",
+        "Gear"
+      ],
+      "Sideboard": [],
+      "Legend": [
+        {
+          "count": 1,
+          "id": "OGN-265-1"
+        }
+      ],
+      "Rune": [
+        {
+          "count": 6,
+          "id": "OGN-089-1"
+        },
+        {
+          "count": 6,
+          "id": "OGN-214-1"
+        }
+      ],
+      "Battlefield": [
+        {
+          "count": 1,
+          "id": "OGN-275-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-293-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-294-1"
+        }
+      ],
+      "Unit": [
+        {
+          "count": 2,
+          "id": "OGN-246-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-096-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-118-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-234-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-208-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-211-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-216-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-218-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-239-1"
+        }
+      ],
+      "Champion": [
+        {
+          "count": 1,
+          "id": "OGN-246-1"
+        }
+      ],
+      "Spell": [
+        {
+          "count": 3,
+          "id": "OGN-095-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-123-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-233-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-209-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-213-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-266-1"
+        }
+      ],
+      "Gear": [
+        {
+          "count": 2,
+          "id": "OGN-245-1"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Jinx Trial Macao",
+    "id": "7ec482fb-e898-465d-8216-e9deb1261888",
+    "game": "Riftbound",
+    "format": "1v1",
+    "cardCount": 56,
+    "createdAt": "2025-06-06T09:49:32.901Z",
+    "lastModifiedAt": "2025-06-06T09:54:40.292Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Champion",
+        "Legend",
+        "Unit",
+        "Gear",
+        "Spell",
+        "Rune",
+        "Battlefield"
+      ],
+      "Sideboard": [],
+      "Legend": [
+        {
+          "count": 1,
+          "id": "OGN-251-1"
+        }
+      ],
+      "Unit": [
+        {
+          "count": 3,
+          "id": "OGN-002-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-003-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-006-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-010-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-012-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-020-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-030-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-036-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-202-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-178-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-185-1"
+        }
+      ],
+      "Champion": [
+        {
+          "count": 1,
+          "id": "OGN-030-1"
+        }
+      ],
+      "Gear": [
+        {
+          "count": 3,
+          "id": "OGN-040-1"
+        },
+        {
+          "count": 3,
+          "id": "OGN-204-1"
+        }
+      ],
+      "Spell": [
+        {
+          "count": 2,
+          "id": "OGN-169-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-172-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-252-1"
+        },
+        {
+          "count": 2,
+          "id": "OGN-203-1"
+        }
+      ],
+      "Rune": [
+        {
+          "count": 6,
+          "id": "OGN-007-1"
+        },
+        {
+          "count": 6,
+          "id": "OGN-166-1"
+        }
+      ],
+      "Battlefield": [
+        {
+          "count": 1,
+          "id": "OGN-285-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-297-1"
+        },
+        {
+          "count": 1,
+          "id": "OGN-298-1"
+        }
+      ]
+    }
   }
-},
-{
-  "title": "Yasuo Trial Macao",
-  "id": "ad71fd9b-6801-4a59-b507-a5e2281a52a1",
-  "game": "Riftbound",
-  "format": "1v1",
-  "cardCount": 56,
-  "createdAt": "2025-06-06T09:08:06.494Z",
-  "lastModifiedAt": "2025-06-06T10:07:27.826Z",
-  "deckList": {
-    "categoriesOrder": [
-      "Legend",
-      "Unit",
-      "Spell",
-      "Gear",
-      "Champion",
-      "Rune",
-      "Battlefield"
-    ],
-    "Sideboard": [],
-    "Legend": [
-      {
-        "count": 1,
-        "id": "OGN-259-1"
-      }
-    ],
-    "Unit": [
-      {
-        "count": 2,
-        "id": "OGN-044-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-055-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-076-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-165-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-177-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-185-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-191-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-189-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-193-1"
-      }
-    ],
-    "Spell": [
-      {
-        "count": 2,
-        "id": "OGN-045-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-046-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-048-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-058-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-064-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-172-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-260-1"
-      }
-    ],
-    "Gear": [
-      {
-        "count": 2,
-        "id": "OGN-081-1"
-      }
-    ],
-    "Champion": [
-      {
-        "count": 1,
-        "id": "OGN-076-1"
-      }
-    ],
-    "Rune": [
-      {
-        "count": 6,
-        "id": "OGN-042-1"
-      },
-      {
-        "count": 6,
-        "id": "OGN-166-1"
-      }
-    ],
-    "Battlefield": [
-      {
-        "count": 1,
-        "id": "OGN-285-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-297-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-289-1"
-      }
-    ]
-  }
-},
-{
-  "title": "Viktor Trial Macao",
-  "id": "5d70df1e-ab17-4b3d-b98e-20e1b88e2d0a",
-  "game": "Riftbound",
-  "format": "1v1",
-  "cardCount": 56,
-  "createdAt": "2025-06-05T20:00:02.680Z",
-  "lastModifiedAt": "2025-06-05T20:06:04.107Z",
-  "deckList": {
-    "categoriesOrder": [
-      "Unit",
-      "Legend",
-      "Rune",
-      "Battlefield",
-      "Champion",
-      "Spell",
-      "Gear"
-    ],
-    "Sideboard": [],
-    "Legend": [
-      {
-        "count": 1,
-        "id": "OGN-265-1"
-      }
-    ],
-    "Rune": [
-      {
-        "count": 6,
-        "id": "OGN-089-1"
-      },
-      {
-        "count": 6,
-        "id": "OGN-214-1"
-      }
-    ],
-    "Battlefield": [
-      {
-        "count": 1,
-        "id": "OGN-275-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-293-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-294-1"
-      }
-    ],
-    "Unit": [
-      {
-        "count": 2,
-        "id": "OGN-246-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-096-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-118-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-234-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-208-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-211-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-216-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-218-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-239-1"
-      }
-    ],
-    "Champion": [
-      {
-        "count": 1,
-        "id": "OGN-246-1"
-      }
-    ],
-    "Spell": [
-      {
-        "count": 3,
-        "id": "OGN-095-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-123-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-233-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-209-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-213-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-266-1"
-      }
-    ],
-    "Gear": [
-      {
-        "count": 2,
-        "id": "OGN-245-1"
-      }
-    ]
-  }
-},
-{
-  "title": "Jinx Trial Macao",
-  "id": "7ec482fb-e898-465d-8216-e9deb1261888",
-  "game": "Riftbound",
-  "format": "1v1",
-  "cardCount": 56,
-  "createdAt": "2025-06-06T09:49:32.901Z",
-  "lastModifiedAt": "2025-06-06T09:54:40.292Z",
-  "deckList": {
-    "categoriesOrder": [
-      "Champion",
-      "Legend",
-      "Unit",
-      "Gear",
-      "Spell",
-      "Rune",
-      "Battlefield"
-    ],
-    "Sideboard": [],
-    "Legend": [
-      {
-        "count": 1,
-        "id": "OGN-251-1"
-      }
-    ],
-    "Unit": [
-      {
-        "count": 3,
-        "id": "OGN-002-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-003-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-006-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-010-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-012-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-020-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-030-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-036-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-202-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-178-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-185-1"
-      }
-    ],
-    "Champion": [
-      {
-        "count": 1,
-        "id": "OGN-030-1"
-      }
-    ],
-    "Gear": [
-      {
-        "count": 3,
-        "id": "OGN-040-1"
-      },
-      {
-        "count": 3,
-        "id": "OGN-204-1"
-      }
-    ],
-    "Spell": [
-      {
-        "count": 2,
-        "id": "OGN-169-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-172-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-252-1"
-      },
-      {
-        "count": 2,
-        "id": "OGN-203-1"
-      }
-    ],
-    "Rune": [
-      {
-        "count": 6,
-        "id": "OGN-007-1"
-      },
-      {
-        "count": 6,
-        "id": "OGN-166-1"
-      }
-    ],
-    "Battlefield": [
-      {
-        "count": 1,
-        "id": "OGN-285-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-297-1"
-      },
-      {
-        "count": 1,
-        "id": "OGN-298-1"
-      }
-    ]
-  }
-}
+]
